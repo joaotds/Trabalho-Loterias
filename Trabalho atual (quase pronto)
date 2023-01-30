@@ -29,7 +29,7 @@ programa
 		pare
 		caso contrario:
 		escreva("escolhe um numero certo ai po")
-
+		maximo = 0
 		pare
 
 		
